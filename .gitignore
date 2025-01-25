@@ -1,0 +1,22 @@
+# Ignore dosye ak fichye tanporè
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Ignore dosye anviwònman
+.env
+venv/
+env/
+
+# Ignore dosye __pycache__ ak .pyc
+__pycache__/
+*.pyc
+
+# Ignore dosye ki jenere pa sistèm
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore dosye ki jenere pa pwojè a
+task_files/  # Si ou pa vle siveye dosye ki nan task_files.
