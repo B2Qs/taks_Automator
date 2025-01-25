@@ -1,15 +1,15 @@
 # Task Automator
 
 ## Deskripsyon
-Este proyecto usa **Bash** y **Python** para automatizar tareas. 
-Puede crear y copiar archivos. También muestra un menú al usuario.
+This project uses **Bash** and **Python** to automate tasks.
+It can create and copy files. It also displays a menu to the user.
 
 ## Enstalasyon
-1. Asire w ke ou gen **Python 3** ak **Bash** enstale sou sistèm ou.
-2. Telechaje oswa kopi fichye yo:
-   - `tasks.sh` (script Bash).
-   - `tasks.py` (script Python).
-   - `automator.sh` (script prensipal ki konbine Bash ak Python).
-3. Rann script yo ekzekutab:
-   ```bash
-   chmod +x tasks.sh automator.sh
+1. Make sure you have **Python 3** and **Bash** installed on your system.
+2. Download or copy the files:
+- `tasks.sh` (Bash script).
+- `tasks.py` (Python script).
+- `automator.sh` (main script that combines Bash and Python).
+3. Make the scripts executable:
+```bash
+chmod +x tasks.sh automator.sh
